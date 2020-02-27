@@ -1,0 +1,113 @@
+
+@font-face {
+    font-family: 'Locator_UltraLight';
+    src: url('./Locator-UltraLight.woff2') format('woff2'),
+        url('./Locator-UltraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova_Thin';
+    src: url('./ProximaNovaT-Thin.woff2') format('woff2'),
+    url('./ProximaNovaT-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Locator_Bold';
+    src: url('./Locator-Bold.woff2') format('woff2'),
+    url('./Locator-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNovaAlt_Light';
+    src: url('./ProximaNovaA-Light.woff2') format('woff2'),
+    url('./ProximaNovaA-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('./ProximaNova-Regular.woff2') format('woff2'),
+    url('./ProximaNova-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Locator';
+    src: url('./Locator.woff2') format('woff2'),
+    url('./Locator.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Locator_Light';
+    src: url('./Locator-Light.woff2') format('woff2'),
+    url('./Locator-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova_Bold';
+    src: url('./ProximaNova-Bold.woff2') format('woff2'),
+    url('./ProximaNova-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova_Black';
+    src: url('./ProximaNova-Black.woff2') format('woff2'),
+    url('./ProximaNova-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Locator_Black';
+    src: url('./Locator-Black.woff2') format('woff2'),
+    url('./Locator-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova_Extrabold';
+    src: url('./ProximaNova-Extrabld.woff2') format('woff2'),
+    url('./ProximaNova-Extrabld.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Locator_Medium';
+    src: url('./Locator-Medium.woff2') format('woff2'),
+    url('./Locator-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNovaAlt_Bold';
+    src: url('./ProximaNovaA-Bold.woff2') format('woff2'),
+    url('./ProximaNovaA-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNovaAlt_Thin';
+    src: url('./ProximaNovaA-Thin.woff2') format('woff2'),
+    url('./ProximaNovaA-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
